@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: oniauliya99/hallo-react:latest
+    image: oniauliya99/hello-react:latest
     container_name: web
     restart: unless-stopped
     ports:
